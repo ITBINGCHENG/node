@@ -1,3 +1,4 @@
+//本脚本利用虎牙开放平台api实现读取弹幕的操作
 var md5=require("md5-node")
 var data='{"roomId":11279251}'
 var appId='154751727055855148'
