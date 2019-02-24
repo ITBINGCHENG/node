@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "1.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "huya-danmu": "^2.0.3",
+    "md5-node": "^1.0.1",
+    "mysql": "^2.16.0",
+    "silly-datetime": "^0.1.2",
+    "ws": "^6.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
